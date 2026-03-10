@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 <!--
-**vitas9313-sketch/vitas9313-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+About Me
+🎯 Passionate about building scalable applications and solving real-world problems
+🧩 Experienced in Machine Learning, AI, Computer Vision, and Software Engineering
+🌱 Continuously learning new frameworks and tools to stay ahead in tech
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
