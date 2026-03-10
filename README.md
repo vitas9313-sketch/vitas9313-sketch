@@ -8,9 +8,8 @@
 
 ## Key Projects
 
-### 1️⃣ GCCH – Strategic M&A Simulation  
-*(2026 The Global Case Competition at Harvard)*  
-Analyzing the Thales-Rheinmetall M&A, covering European defense industry trends, company strategic fit, financial assessment, and acquisition feasibility.  
+### 1️⃣ GCCH – Strategic M&A Simulation <br> (2026 The Global Case Competition at Harvard) 
+Analyzing  a strategic M&A case, covering European defense industry trends, company strategic fit, financial assessment, and acquisition feasibility.  
 *Note: Ongoing competition; full report will be released after March 19, 2026, per confidentiality rules.*
 
 ### 2️⃣ Strategic Resilience: Financial Pivot & Tariff Risk Mitigation for Toyota  
