@@ -9,7 +9,7 @@
 ## Key Projects
 
 ### 1️⃣ [GCCH – Strategic M&A Simulation <br> (2026 The Global Case Competition at Harvard)](https://github.com/vitas9313-sketch/harvard-gcch-2026-case-study) 
-> ⚠️ **Note:** Ongoing competition; full report will be released after March 19, 2026, per confidentiality rules.
+> ⚠️ **Note:** Ongoing competition; full report will be released after March 19, 2026, per confidentiality rules.<br>
 Analyzing  a strategic M&A case, covering European defense industry trends, company strategic fit, financial assessment, and acquisition feasibility.  
 
 ### 2️⃣ [Strategic Resilience: Financial Pivot & Tariff Risk Mitigation for Toyota](https://github.com/vitas9313-sketch/toyota-financial-strategy-resilience)   
