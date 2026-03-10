@@ -2,10 +2,10 @@
 
 <!--
 About Me
-🎯 Passionate about building scalable applications and solving real-world problems
-🧩 Experienced in Machine Learning, AI, Computer Vision, and Software Engineering
-🌱 Continuously learning new frameworks and tools to stay ahead in tech
-Here are some ideas to get you started:
+📖 MBA candidate @ National Sun Yat-sen University | 2.5 yrs as Project Specialist in the tech industry
+💡 Passionate about data-driven business strategy and financial analytics
+🛠 Skilled in R, Python, customer & marketing analytics
+🚀 Exploring M&A strategy, financial transformation, and advanced analytics
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
