@@ -1,7 +1,7 @@
 # Hi, I'm Yu-Ci Huang!
 
 ## About Me
-📖 MBA candidate @ National Sun Yat-sen University | 2.5 yrs as Project Specialist in the tech industry  
+📖 MBA candidate @ National Sun Yat-sen University | 2.5 yrs as Project Management Specialist in the tech industry  
 💡 Passionate about data-driven business strategy and financial analytics  
 🛠 Skilled in R, Python, customer & marketing analytics  
 🚀 Exploring M&A strategy, financial transformation, and advanced analytics  
