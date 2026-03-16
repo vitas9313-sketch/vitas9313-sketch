@@ -13,7 +13,7 @@
 Analyzing  a strategic M&A case, covering European defense industry trends, company strategic fit, financial assessment, and acquisition feasibility.  
 
 ### 2️⃣ [Strategic Financial Pivot & Tariff Risk Mitigation for Toyota](https://github.com/vitas9313-sketch/toyota-financial-strategy-resilience)   
-Simulated Toyota CFO role under “America First” policies (2025), performing quantitative analysis on financial impact, capital structure, and currency risk, and providing actionable strategic recommendations.
+Simulated Toyota CFO role to assess ¥1.45T tariff exposure under 2025 'America First' policies. Evaluated capital structure and currency risk, and providing actionable strategic recommendations.
 
 ### 3️⃣ [Retail Data Analytics & Marketing Strategy](https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing) 
-Leveraged TAFENG retail data and hierarchical clustering in R to analyze customer and product features, design targeted marketing strategies, and translate insights into actionable business solutions, achieving +3% gross margin and +1.2% revenue.
+Leveraged TAFENG retail data and hierarchical clustering in R to analyze customer and product features, design targeted marketing strategies, and translate insights into actionable business solutions, driving a projected 1.2% revenue uplift and 3% gross margin improvement.
