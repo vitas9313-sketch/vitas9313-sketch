@@ -9,8 +9,8 @@
 ## Key Projects
 
 ### 1️⃣ [The Global Case Competition at Harvard (GCCH) 2026 | Cross-Border M&A Project](https://github.com/vitas9313-sketch/harvard-gcch-2026-case-study) 
-> ⚠️ **Note:** Ongoing competition; full report will be released after March 22, 2026, per confidentiality rules.<br>
-Analyzing  a cross-border M&A case, covering European defense industry trends, company strategic fit, financial assessment, and acquisition feasibility.  
+
+Analyzed a €79.7B virtual cross-border M&A case, evaluating European defense industry trends, strategic fit, financial performance, and acquisition feasibility.
 
 ### 2️⃣ [Strategic Financial Pivot & Tariff Risk Mitigation for Toyota](https://github.com/vitas9313-sketch/toyota-financial-strategy-resilience)   
 Simulated Toyota CFO role to assess ¥1.45T tariff exposure under 2025 'America First' policies. Evaluated capital structure and currency risk, and providing actionable strategic recommendations.
