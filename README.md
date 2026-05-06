@@ -16,4 +16,4 @@ Analyzed a €79.7B virtual cross-border M&A case, evaluating European defense i
 Simulated Toyota CFO role to assess ¥1.45T tariff exposure under 2025 'America First' policies. Evaluated capital structure and currency risk, and providing actionable strategic recommendations.
 
 ### 3️⃣ [Retail Data Analytics & Marketing Strategy](https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing) 
-Leveraged TAFENG retail data and hierarchical clustering in R to analyze customer and product features, design targeted marketing strategies, and translate insights into actionable business solutions, driving a projected 1.2% revenue uplift and 3% gross margin improvement.
+Leveraged TAFENG retail data and hierarchical clustering in R to analyze customer and product features, design targeted marketing strategies, and translate insights into actionable business solutions, driving an estimated 2.1% increase in revenue and a 45-basis-point (0.45%) improvement in gross margin through optimized product allocation.
